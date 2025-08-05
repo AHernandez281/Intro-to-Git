@@ -1,2 +1,3 @@
 # Intro-to-Git
-Introduction to Git
+
+First GitHub Repository attempt
